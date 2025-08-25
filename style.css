@@ -18,9 +18,9 @@ body {
 }
 
 .quiz-container h1 {
-    background: blue;
+    background: lightblue;
     padding: 1.5em;
-    top: 0 !important;
+    margin-top: 0 !important;
 }
 
 #answersTwo button {
