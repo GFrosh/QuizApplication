@@ -20,7 +20,7 @@ body {
 .quiz-container h1 {
     background: blue;
     padding: 1.5em;
-    top: 0;
+    top: 0 !important;
 }
 
 #answersTwo button {
