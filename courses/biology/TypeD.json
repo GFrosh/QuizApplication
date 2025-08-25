@@ -1,0 +1,300 @@
+[{
+    "question": "Which planet has the largest number of moons?",
+    "answers": [{
+        "text": "Saturn",
+        "correct": true
+    },
+        {
+            "text": "Earth",
+            "correct": false
+        },
+        {
+            "text": "Mars",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "answers": [{
+            "text": "O negative",
+            "correct": true
+        },
+            {
+                "text": "A positive",
+                "correct": false
+            },
+            {
+                "text": "AB positive",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "answers": [{
+            "text": "Diamond",
+            "correct": true
+        },
+            {
+                "text": "Gold",
+                "correct": false
+            },
+            {
+                "text": "Iron",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which vitamin helps the body absorb calcium?",
+        "answers": [{
+            "text": "Vitamin D",
+            "correct": true
+        },
+            {
+                "text": "Vitamin C",
+                "correct": false
+            },
+            {
+                "text": "Vitamin A",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What organ filters blood in the human body?",
+        "answers": [{
+            "text": "Kidneys",
+            "correct": true
+        },
+            {
+                "text": "Lungs",
+                "correct": false
+            },
+            {
+                "text": "Stomach",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is the smallest planet in our solar system?",
+        "answers": [{
+            "text": "Mercury",
+            "correct": true
+        },
+            {
+                "text": "Mars",
+                "correct": false
+            },
+            {
+                "text": "Venus",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of the cell contains DNA?",
+        "answers": [{
+            "text": "Nucleus",
+            "correct": true
+        },
+            {
+                "text": "Ribosome",
+                "correct": false
+            },
+            {
+                "text": "Mitochondria",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "answers": [{
+            "text": "0°C",
+            "correct": true
+        },
+            {
+                "text": "10°C",
+                "correct": false
+            },
+            {
+                "text": "100°C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal is the fastest on land?",
+        "answers": [{
+            "text": "Cheetah",
+            "correct": true
+        },
+            {
+                "text": "Horse",
+                "correct": false
+            },
+            {
+                "text": "Lion",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of the body helps you breathe?",
+        "answers": [{
+            "text": "Lungs",
+            "correct": true
+        },
+            {
+                "text": "Liver",
+                "correct": false
+            },
+            {
+                "text": "Kidneys",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What type of energy do we get from the sun?",
+        "answers": [{
+            "text": "Solar energy",
+            "correct": true
+        },
+            {
+                "text": "Nuclear energy",
+                "correct": false
+            },
+            {
+                "text": "Wind energy",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which blood cells help fight infection?",
+        "answers": [{
+            "text": "White blood cells",
+            "correct": true
+        },
+            {
+                "text": "Red blood cells",
+                "correct": false
+            },
+            {
+                "text": "Platelets",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "answers": [{
+            "text": "Mercury",
+            "correct": true
+        },
+            {
+                "text": "Venus",
+                "correct": false
+            },
+            {
+                "text": "Earth",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What force pulls objects toward Earth?",
+        "answers": [{
+            "text": "Gravity",
+            "correct": true
+        },
+            {
+                "text": "Magnetism",
+                "correct": false
+            },
+            {
+                "text": "Friction",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of the body controls movement and thoughts?",
+        "answers": [{
+            "text": "Brain",
+            "correct": true
+        },
+            {
+                "text": "Heart",
+                "correct": false
+            },
+            {
+                "text": "Lungs",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which natural satellite orbits the Earth?",
+        "answers": [{
+            "text": "Moon",
+            "correct": true
+        },
+            {
+                "text": "Sun",
+                "correct": false
+            },
+            {
+                "text": "Mars",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ in plants makes food?",
+        "answers": [{
+            "text": "Leaves",
+            "correct": true
+        },
+            {
+                "text": "Roots",
+                "correct": false
+            },
+            {
+                "text": "Stem",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answers": [{
+            "text": "100°C",
+            "correct": true
+        },
+            {
+                "text": "50°C",
+                "correct": false
+            },
+            {
+                "text": "150°C",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which gas do plants release during photosynthesis?",
+        "answers": [{
+            "text": "Oxygen",
+            "correct": true
+        },
+            {
+                "text": "Carbon dioxide",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of the eye controls how much light enters?",
+        "answers": [{
+            "text": "Pupil",
+            "correct": true
+        },
+            {
+                "text": "Iris",
+                "correct": false
+            },
+            {
+                "text": "Lens",
+                "correct": false
+            }]
+    }]

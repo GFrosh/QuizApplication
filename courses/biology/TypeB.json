@@ -1,0 +1,300 @@
+[{
+    "question": "Which vitamin do we get from sunlight?",
+    "answers": [{
+        "text": "Vitamin A",
+        "correct": false
+    },
+        {
+            "text": "Vitamin D",
+            "correct": true
+        },
+        {
+            "text": "Vitamin C",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which organ helps in digestion by producing acid?",
+        "answers": [{
+            "text": "Liver",
+            "correct": false
+        },
+            {
+                "text": "Stomach",
+                "correct": true
+            },
+            {
+                "text": "Pancreas",
+                "correct": false
+            }]
+    },
+    {
+        "question": "How many lungs does a human have?",
+        "answers": [{
+            "text": "1",
+            "correct": false
+        },
+            {
+                "text": "2",
+                "correct": true
+            },
+            {
+                "text": "3",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal is the fastest on land?",
+        "answers": [{
+            "text": "Cheetah",
+            "correct": true
+        },
+            {
+                "text": "Horse",
+                "correct": false
+            },
+            {
+                "text": "Lion",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What do bees make?",
+        "answers": [{
+            "text": "Milk",
+            "correct": false
+        },
+            {
+                "text": "Honey",
+                "correct": true
+            },
+            {
+                "text": "Butter",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ helps us see?",
+        "answers": [{
+            "text": "Eyes",
+            "correct": true
+        },
+            {
+                "text": "Ears",
+                "correct": false
+            },
+            {
+                "text": "Nose",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What organ helps us smell?",
+        "answers": [{
+            "text": "Tongue",
+            "correct": false
+        },
+            {
+                "text": "Nose",
+                "correct": true
+            },
+            {
+                "text": "Skin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal can change its colour to hide?",
+        "answers": [{
+            "text": "Chameleon",
+            "correct": true
+        },
+            {
+                "text": "Dog",
+                "correct": false
+            },
+            {
+                "text": "Cow",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What organ helps us hear?",
+        "answers": [{
+            "text": "Eyes",
+            "correct": false
+        },
+            {
+                "text": "Nose",
+                "correct": false
+            },
+            {
+                "text": "Ears",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the main source of energy for the human body?",
+        "answers": [{
+            "text": "Protein",
+            "correct": false
+        },
+            {
+                "text": "Carbohydrates",
+                "correct": true
+            },
+            {
+                "text": "Water",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal has the longest neck?",
+        "answers": [{
+            "text": "Giraffe",
+            "correct": true
+        },
+            {
+                "text": "Elephant",
+                "correct": false
+            },
+            {
+                "text": "Kangaroo",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What do roots do for a plant?",
+        "answers": [{
+            "text": "Make flowers",
+            "correct": false
+        },
+            {
+                "text": "Absorb water and minerals",
+                "correct": true
+            },
+            {
+                "text": "Carry sunlight",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the study of living things called?",
+        "answers": [{
+            "text": "Biology",
+            "correct": true
+        },
+            {
+                "text": "Geology",
+                "correct": false
+            },
+            {
+                "text": "Astronomy",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of the body helps us taste?",
+        "answers": [{
+            "text": "Tongue",
+            "correct": true
+        },
+            {
+                "text": "Teeth",
+                "correct": false
+            },
+            {
+                "text": "Lips",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What carries messages between the brain and the body?",
+        "answers": [{
+            "text": "Nerves",
+            "correct": true
+        },
+            {
+                "text": "Bones",
+                "correct": false
+            },
+            {
+                "text": "Veins",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the process by which plants release oxygen?",
+        "answers": [{
+            "text": "Photosynthesis",
+            "correct": true
+        },
+            {
+                "text": "Digestion",
+                "correct": false
+            },
+            {
+                "text": "Respiration",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ pumps blood around the body?",
+        "answers": [{
+            "text": "Lungs",
+            "correct": false
+        },
+            {
+                "text": "Heart",
+                "correct": true
+            },
+            {
+                "text": "Brain",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What do birds use to fly?",
+        "answers": [{
+            "text": "Wings",
+            "correct": true
+        },
+            {
+                "text": "Legs",
+                "correct": false
+            },
+            {
+                "text": "Fins",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ helps in balancing the body?",
+        "answers": [{
+            "text": "Ears",
+            "correct": true
+        },
+            {
+                "text": "Hands",
+                "correct": false
+            },
+            {
+                "text": "Nose",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal is the tallest in the world?",
+        "answers": [{
+            "text": "Elephant",
+            "correct": false
+        },
+            {
+                "text": "Giraffe",
+                "correct": true
+            },
+            {
+                "text": "Horse",
+                "correct": false
+            }]
+    }]

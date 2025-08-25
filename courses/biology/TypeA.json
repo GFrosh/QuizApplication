@@ -1,0 +1,300 @@
+[{
+    "question": "How many bones are in the adult human body?",
+    "answers": [{
+        "text": "106",
+        "correct": false
+    },
+        {
+            "text": "206",
+            "correct": true
+        },
+        {
+            "text": "306",
+            "correct": false
+        }]
+},
+    {
+        "question": "What part of the body pumps blood?",
+        "answers": [{
+            "text": "Heart",
+            "correct": true
+        },
+            {
+                "text": "Stomach",
+                "correct": false
+            },
+            {
+                "text": "Brain",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What do plants use to make their food?",
+        "answers": [{
+            "text": "Photosynthesis",
+            "correct": true
+        },
+            {
+                "text": "Breathing",
+                "correct": false
+            },
+            {
+                "text": "Eating soil",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which is the largest organ in the human body?",
+        "answers": [{
+            "text": "Skin",
+            "correct": true
+        },
+            {
+                "text": "Liver",
+                "correct": false
+            },
+            {
+                "text": "Brain",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What gas do humans need to breathe to stay alive?",
+        "answers": [{
+            "text": "Oxygen",
+            "correct": true
+        },
+            {
+                "text": "Carbon dioxide",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal lays eggs?",
+        "answers": [{
+            "text": "Dog",
+            "correct": false
+        },
+            {
+                "text": "Hen",
+                "correct": true
+            },
+            {
+                "text": "Cat",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What part of the plant carries water from the roots to the leaves?",
+        "answers": [{
+            "text": "Stem",
+            "correct": true
+        },
+            {
+                "text": "Flower",
+                "correct": false
+            },
+            {
+                "text": "Leaf",
+                "correct": false
+            }]
+    },
+    {
+        "question": "How many chambers does the human heart have?",
+        "answers": [{
+            "text": "2",
+            "correct": false
+        },
+            {
+                "text": "3",
+                "correct": false
+            },
+            {
+                "text": "4",
+                "correct": true
+            }]
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "answers": [{
+            "text": "Stapes (in the ear)",
+            "correct": true
+        },
+            {
+                "text": "Finger bone",
+                "correct": false
+            },
+            {
+                "text": "Nose bone",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "answers": [{
+            "text": "Elephant",
+            "correct": false
+        },
+            {
+                "text": "Tiger",
+                "correct": false
+            },
+            {
+                "text": "Lion",
+                "correct": true
+            }]
+    },
+    {
+        "question": "Which organ helps us breathe?",
+        "answers": [{
+            "text": "Lungs",
+            "correct": true
+        },
+            {
+                "text": "Kidneys",
+                "correct": false
+            },
+            {
+                "text": "Stomach",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Where is blood made in the body?",
+        "answers": [{
+            "text": "Bones",
+            "correct": true
+        },
+            {
+                "text": "Lungs",
+                "correct": false
+            },
+            {
+                "text": "Heart",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What gives blood its red colour?",
+        "answers": [{
+            "text": "Oxygen",
+            "correct": false
+        },
+            {
+                "text": "Hemoglobin",
+                "correct": true
+            },
+            {
+                "text": "Water",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What organ filters waste from our blood?",
+        "answers": [{
+            "text": "Kidneys",
+            "correct": true
+        },
+            {
+                "text": "Lungs",
+                "correct": false
+            },
+            {
+                "text": "Liver",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the hardest part of the human body?",
+        "answers": [{
+            "text": "Bone",
+            "correct": false
+        },
+            {
+                "text": "Tooth enamel",
+                "correct": true
+            },
+            {
+                "text": "Nails",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ helps us think?",
+        "answers": [{
+            "text": "Brain",
+            "correct": true
+        },
+            {
+                "text": "Heart",
+                "correct": false
+            },
+            {
+                "text": "Lungs",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What do fish use to breathe underwater?",
+        "answers": [{
+            "text": "Gills",
+            "correct": true
+        },
+            {
+                "text": "Lungs",
+                "correct": false
+            },
+            {
+                "text": "Skin",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which blood cells fight germs?",
+        "answers": [{
+            "text": "Red blood cells",
+            "correct": false
+        },
+            {
+                "text": "White blood cells",
+                "correct": true
+            },
+            {
+                "text": "Platelets",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the largest animal on Earth?",
+        "answers": [{
+            "text": "Elephant",
+            "correct": false
+        },
+            {
+                "text": "Blue whale",
+                "correct": true
+            },
+            {
+                "text": "Giraffe",
+                "correct": false
+            }]
+    },
+    {
+        "question": "How many teeth does an adult human normally have?",
+        "answers": [{
+            "text": "28",
+            "correct": false
+        },
+            {
+                "text": "32",
+                "correct": true
+            },
+            {
+                "text": "36",
+                "correct": false
+            }]
+    }]

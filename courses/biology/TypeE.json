@@ -1,0 +1,281 @@
+[{
+    "question": "What is the main function of mitochondria in cells?",
+    "answers": [{
+        "text": "Produce energy",
+        "correct": true
+    },
+        {
+            "text": "Store DNA",
+            "correct": false
+        },
+        {
+            "text": "Carry oxygen",
+            "correct": false
+        }]
+}, {
+    "question": "Which blood cells help fight infections?",
+    "answers": [{
+        "text": "White blood cells",
+        "correct": true
+    },
+        {
+            "text": "Red blood cells",
+            "correct": false
+        },
+        {
+            "text": "Platelets",
+            "correct": false
+        }]
+}, {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [{
+        "text": "Mars",
+        "correct": true
+    },
+        {
+            "text": "Venus",
+            "correct": false
+        },
+        {
+            "text": "Jupiter",
+            "correct": false
+        }]
+}, {
+    "question": "Which organ helps humans breathe?",
+    "answers": [{
+        "text": "Lungs",
+        "correct": true
+    },
+        {
+            "text": "Kidneys",
+            "correct": false
+        },
+        {
+            "text": "Liver",
+            "correct": false
+        }]
+}, {
+    "question": "What is the hardest natural substance on Earth?",
+    "answers": [{
+        "text": "Diamond",
+        "correct": true
+    },
+        {
+            "text": "Gold",
+            "correct": false
+        },
+        {
+            "text": "Iron",
+            "correct": false
+        }]
+}, {
+    "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+    "answers": [{
+        "text": "Vitamin D",
+        "correct": true
+    },
+        {
+            "text": "Vitamin C",
+            "correct": false
+        },
+        {
+            "text": "Vitamin B12",
+            "correct": false
+        }]
+}, {
+    "question": "What is the smallest planet in the solar system?",
+    "answers": [{
+        "text": "Mercury",
+        "correct": true
+    },
+        {
+            "text": "Pluto",
+            "correct": false
+        },
+        {
+            "text": "Mars",
+            "correct": false
+        }]
+}, {
+    "question": "Which blood type is known as the universal donor?",
+    "answers": [{
+        "text": "O negative",
+        "correct": true
+    },
+        {
+            "text": "A positive",
+            "correct": false
+        },
+        {
+            "text": "AB positive",
+            "correct": false
+        }]
+}, {
+    "question": "What gas do plants release during photosynthesis?",
+    "answers": [{
+        "text": "Oxygen",
+        "correct": true
+    },
+        {
+            "text": "Carbon dioxide",
+            "correct": false
+        },
+        {
+            "text": "Nitrogen",
+            "correct": false
+        }]
+}, {
+    "question": "Which is the largest internal organ in the human body?",
+    "answers": [{
+        "text": "Liver",
+        "correct": true
+    },
+        {
+            "text": "Lungs",
+            "correct": false
+        },
+        {
+            "text": "Kidneys",
+            "correct": false
+        }]
+}, {
+    "question": "What is the study of living things called?",
+    "answers": [{
+        "text": "Biology",
+        "correct": true
+    },
+        {
+            "text": "Geology",
+            "correct": false
+        },
+        {
+            "text": "Astronomy",
+            "correct": false
+        }]
+}, {
+    "question": "Which planet has the most moons?",
+    "answers": [{
+        "text": "Saturn",
+        "correct": true
+    },
+        {
+            "text": "Jupiter",
+            "correct": false
+        },
+        {
+            "text": "Neptune",
+            "correct": false
+        }]
+}, {
+    "question": "What is the freezing point of water?",
+    "answers": [{
+        "text": "0°C",
+        "correct": true
+    },
+        {
+            "text": "32°C",
+            "correct": false
+        },
+        {
+            "text": "100°C",
+            "correct": false
+        }]
+}, {
+    "question": "Which organ in the human body filters blood?",
+    "answers": [{
+        "text": "Kidneys",
+        "correct": true
+    },
+        {
+            "text": "Lungs",
+            "correct": false
+        },
+        {
+            "text": "Stomach",
+            "correct": false
+        }]
+}, {
+    "question": "Which bird is the fastest in the world?",
+    "answers": [{
+        "text": "Peregrine falcon",
+        "correct": true
+    },
+        {
+            "text": "Eagle",
+            "correct": false
+        },
+        {
+            "text": "Ostrich",
+            "correct": false
+        }]
+}, {
+    "question": "What part of the cell contains genetic material?",
+    "answers": [{
+        "text": "Nucleus",
+        "correct": true
+    },
+        {
+            "text": "Cytoplasm",
+            "correct": false
+        },
+        {
+            "text": "Mitochondria",
+            "correct": false
+        }]
+}, {
+    "question": "Which animal is known as the largest mammal?",
+    "answers": [{
+        "text": "Blue whale",
+        "correct": true
+    },
+        {
+            "text": "Elephant",
+            "correct": false
+        },
+        {
+            "text": "Giraffe",
+            "correct": false
+        }]
+}, {
+    "question": "How many bones does an adult human have?",
+    "answers": [{
+        "text": "206",
+        "correct": true
+    },
+        {
+            "text": "201",
+            "correct": false
+        },
+        {
+            "text": "212",
+            "correct": false
+        }]
+}, {
+    "question": "What gas do humans exhale?",
+    "answers": [{
+        "text": "Carbon dioxide",
+        "correct": true
+    },
+        {
+            "text": "Oxygen",
+            "correct": false
+        },
+        {
+            "text": "Hydrogen",
+            "correct": false
+        }]
+}, {
+    "question": "Which insect makes honey?",
+    "answers": [{
+        "text": "Bee",
+        "correct": true
+    },
+        {
+            "text": "Ant",
+            "correct": false
+        },
+        {
+            "text": "Butterfly",
+            "correct": false
+        }]
+}]

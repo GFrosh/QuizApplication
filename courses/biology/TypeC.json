@@ -1,0 +1,300 @@
+[{
+    "question": "Which sense organ helps us to see?",
+    "answers": [{
+        "text": "Eyes",
+        "correct": true
+    },
+        {
+            "text": "Ears",
+            "correct": false
+        },
+        {
+            "text": "Nose",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which animal is known to have a trunk?",
+        "answers": [{
+            "text": "Elephant",
+            "correct": true
+        },
+            {
+                "text": "Giraffe",
+                "correct": false
+            },
+            {
+                "text": "Lion",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the liquid part of blood called?",
+        "answers": [{
+            "text": "Plasma",
+            "correct": true
+        },
+            {
+                "text": "Water",
+                "correct": false
+            },
+            {
+                "text": "Serum",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ helps us digest food by producing bile?",
+        "answers": [{
+            "text": "Liver",
+            "correct": true
+        },
+            {
+                "text": "Pancreas",
+                "correct": false
+            },
+            {
+                "text": "Stomach",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What do cows produce that humans drink?",
+        "answers": [{
+            "text": "Milk",
+            "correct": true
+        },
+            {
+                "text": "Juice",
+                "correct": false
+            },
+            {
+                "text": "Honey",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of the plant makes seeds?",
+        "answers": [{
+            "text": "Flower",
+            "correct": true
+        },
+            {
+                "text": "Root",
+                "correct": false
+            },
+            {
+                "text": "Stem",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the largest land animal?",
+        "answers": [{
+            "text": "Elephant",
+            "correct": true
+        },
+            {
+                "text": "Giraffe",
+                "correct": false
+            },
+            {
+                "text": "Hippo",
+                "correct": false
+            }]
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "answers": [{
+            "text": "6",
+            "correct": false
+        },
+            {
+                "text": "8",
+                "correct": true
+            },
+            {
+                "text": "10",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal gives us wool?",
+        "answers": [{
+            "text": "Sheep",
+            "correct": true
+        },
+            {
+                "text": "Dog",
+                "correct": false
+            },
+            {
+                "text": "Cow",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What gas do plants take in to make food?",
+        "answers": [{
+            "text": "Oxygen",
+            "correct": false
+        },
+            {
+                "text": "Carbon dioxide",
+                "correct": true
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ is responsible for pumping blood?",
+        "answers": [{
+            "text": "Heart",
+            "correct": true
+        },
+            {
+                "text": "Liver",
+                "correct": false
+            },
+            {
+                "text": "Kidneys",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What type of blood cells carry oxygen?",
+        "answers": [{
+            "text": "White blood cells",
+            "correct": false
+        },
+            {
+                "text": "Red blood cells",
+                "correct": true
+            },
+            {
+                "text": "Platelets",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which animal is known for hopping?",
+        "answers": [{
+            "text": "Kangaroo",
+            "correct": true
+        },
+            {
+                "text": "Tiger",
+                "correct": false
+            },
+            {
+                "text": "Elephant",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the baby of a frog called?",
+        "answers": [{
+            "text": "Tadpole",
+            "correct": true
+        },
+            {
+                "text": "Caterpillar",
+                "correct": false
+            },
+            {
+                "text": "Larva",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which organ in humans stores urine?",
+        "answers": [{
+            "text": "Bladder",
+            "correct": true
+        },
+            {
+                "text": "Kidney",
+                "correct": false
+            },
+            {
+                "text": "Liver",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which part of the body helps us chew food?",
+        "answers": [{
+            "text": "Teeth",
+            "correct": true
+        },
+            {
+                "text": "Nose",
+                "correct": false
+            },
+            {
+                "text": "Tongue",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which bird cannot fly?",
+        "answers": [{
+            "text": "Ostrich",
+            "correct": true
+        },
+            {
+                "text": "Parrot",
+                "correct": false
+            },
+            {
+                "text": "Crow",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What protects the brain inside our head?",
+        "answers": [{
+            "text": "Skull",
+            "correct": true
+        },
+            {
+                "text": "Skin",
+                "correct": false
+            },
+            {
+                "text": "Hair",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What organ helps us detect sounds?",
+        "answers": [{
+            "text": "Ear",
+            "correct": true
+        },
+            {
+                "text": "Eye",
+                "correct": false
+            },
+            {
+                "text": "Nose",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What do plants release into the air that humans need?",
+        "answers": [{
+            "text": "Oxygen",
+            "correct": true
+        },
+            {
+                "text": "Carbon dioxide",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            }]
+    }]
