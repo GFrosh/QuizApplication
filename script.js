@@ -1,3 +1,4 @@
 import { Quiz } from "./quiz.js";
 
-Quiz();
+let course = "./courses/biology/TypeA.json";
+Quiz(course);

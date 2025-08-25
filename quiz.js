@@ -1,7 +1,7 @@
-export const Quiz = async () => {
+export const Quiz = async (sub) => {
     
     // FETCH QUESTIONS FROM JSON FILE
-    const res = await fetch("./courses/biology/TypeA.json");
+    const res = await fetch(sub);
     let data = await res.json();
 
 
