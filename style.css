@@ -12,15 +12,15 @@ body {
     padding: 20px;
     border-radius: 10px;
     height: 70%;
-    width: 300px;
+    width: 370px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     text-align: center;
 }
 
 .quiz-container h1 {
     background: lightblue;
-    padding: 1.5em;
-    margin-top: 0 !important;
+    border-radius: 6px;
+    padding: 1em;
 }
 
 #answersTwo button {
