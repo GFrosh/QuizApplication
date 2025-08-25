@@ -17,6 +17,12 @@ body {
     text-align: center;
 }
 
+.quiz-container h1 {
+    background: blue;
+    padding: 1.5em;
+    top: 0;
+}
+
 #answersTwo button {
     display: block;
     width: 100%;
