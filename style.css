@@ -7,11 +7,19 @@ body {
     align-items: center;
 }
 
-.quiz-container {
+#selectCourse {
     background: white;
     padding: 20px;
     border-radius: 10px;
-    height: 70%;
+    width: 300px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+#quiz-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
     width: 300px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     text-align: center;
@@ -71,7 +79,7 @@ body {
 
 @media screen and (min-width: 1024px) {
 
-    .quiz-container {
+    #quiz-container {
         width: 800px;
     }
 }
