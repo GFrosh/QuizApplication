@@ -40,9 +40,8 @@ options.addEventListener('click', () => {
 });
 chooseBtn.addEventListener('click', () => {
     let selected = options.value;
-    console.log(options.value);
-    if (options.value === "default") {
-        alert("Please select a valid course!");
+    if (selected === "default") {
+        alert("Please select a valid course!🙏");
     } else {
         Quiz(generatePath(selected, type));
         selectedCourse.innerText = selected.toUpperCase();
