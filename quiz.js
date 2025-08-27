@@ -26,7 +26,7 @@ export const Quiz = async (sub) => {
         let current = data[index];
         question.innerHTML = current.question;
     
-        progress.textContent = `${answered} / ${data.length}`;
+        progress.textContent = `Question: ${answered} of ${data.length}`;
         answered++;
     
         current.answers.forEach(answer => {
