@@ -28,8 +28,6 @@ function hideSection(section) {
 function chooseCourse() {
     quizSection.style.display = "block";
     hideSection(chooseSection);
-    console.log(chooseSection);
-
 }
 
 function generatePath(cose, tipe) {
@@ -47,9 +45,9 @@ chooseBtn.addEventListener('click', () => {
         alert("Please select a valid course!");
     } else {
         Quiz(generatePath(selected, type));
-        console.log(course.biology.typeA);
         selectedCourse.innerText = selected.toUpperCase();
     }
-    console.log(course);
+    
+    
     chooseCourse();
 });
