@@ -80,7 +80,27 @@ export const Quiz = async (sub) => {
         }
     });
     
-    
+
+    // GRADING FUNCTIONALITY
+    function grading(score, overall, report) {
+        if (score <= 5) {
+            report.innerHTML = `<h3>Olodo Rapata!</h3>
+                                <h3>You can do better....or not</h3>
+                                <h2>Your Score: ${score} / ${overall.length}</h2>`;
+        }
+        else if (score > 5 && scores <= 13) {
+            report.innerHTML = `<h3>Nice Try! There's room for improvement</h3>
+                                <h2>Your Score: ${score} / ${overall.length}</h2>`;
+        }
+        else if (score > 13 && scores <= 19) {
+            report.innerHTML = `<h3>Close Enough!</h3>
+                                <h2>Your Score: ${score} / ${overall.length}</h2>`;
+        }
+        else {
+            report.innerHTML = `<h3>Perfection! Or so you'd think</h3>
+                                <h2>Your Score: ${score} / ${overall.length}</h2>`;
+        }
+    }
     
     // DISPLAY RESULT AFTER QUIZ COMPLETION
     function showResult() {
@@ -88,26 +108,10 @@ export const Quiz = async (sub) => {
         progress.style.display = "none";
         answers.style.display = "none";
         next.style.display = "none";
+        next.textContent = "Done";
         result.style.display = "block";
     
-        if (scores <= 5) {
-            result.innerHTML = `<h3>Olodo Rapata!</h3>
-                                <h3>You can do better....or not</h3>
-                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
-        }
-        else if (scores > 5 && scores <= 13) {
-            result.innerHTML = `<h3>Nice Try! There's room for improvement</h3>
-                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
-        }
-        else if (scores > 13 && scores <= 19) {
-            result.innerHTML = `<h3>Close Enough!</h3>
-                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
-        }
-        else {
-            result.innerHTML = `<h3>Perfection! Or so you'd think</h3>
-                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
-        }
-
+        grading(scores, data, result);
     }
 
 

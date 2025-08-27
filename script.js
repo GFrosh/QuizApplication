@@ -4,27 +4,52 @@ const options = document.getElementById("courseList");
 const chooseBtn = document.getElementById("chooseButton");
 const chooseSection = document.getElementById("selectCourse");
 const quizSection = document.getElementById("quiz-container");
+const selectedCourse = document.getElementById("selectedCourse");
 
-let typeIndex = 0;
+let type = "typeA";
 let course = {
-    biology: ["./courses/biology/TypeA.json", "./courses/biology/TypeB.json", "./courses/biology/TypeC.json", "./courses/biology/TypeD.json", "./courses/biology/TypeE.json"],
-    ins: ["I think it works", "Or not"]
+    biology: {
+        typeA: "./courses/biology/TypeA.json",
+        typeB: "./courses/biology/TypeB.json",
+        typeC: "./courses/biology/TypeC.json",
+        typeD: "./courses/biology/TypeD.json",
+        typeE: "./courses/biology/TypeE.json"
+    },
+    ins: {
+        typeA: "I think it works",
+        typeB: "Or not"
+    }
+}
+
+function hideSection(section) {
+    section.style.display = "none";
 }
 
 function chooseCourse() {
-    quizSection.style.display = "none";
+    quizSection.style.display = "block";
+    hideSection(chooseSection);
     console.log(chooseSection);
 
 }
 
+function generatePath(cose, tipe) {
+    return `./courses/${cose}/${tipe}.json`;
+}
+
+hideSection(quizSection);
 options.addEventListener('click', () => {
     options[0].disabled = true;
 });
 chooseBtn.addEventListener('click', () => {
+    let selected = options.value;
     console.log(options.value);
+    if (options.value === "default") {
+        alert("Please select a valid course!");
+    } else {
+        Quiz(generatePath(selected, type));
+        console.log(course.biology.typeA);
+        selectedCourse.innerText = selected.toUpperCase();
+    }
     console.log(course);
     chooseCourse();
 });
-
-
-Quiz(course.biology[0]);
