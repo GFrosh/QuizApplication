@@ -89,7 +89,25 @@ export const Quiz = async (sub) => {
         answers.style.display = "none";
         next.style.display = "none";
         result.style.display = "block";
-        result.innerHTML = `<h2>Your Score: ${scores} / ${data.length}</h2>`;
+    
+        if (scores <= 5) {
+            result.innerHTML = `<h3>Olodo Rapata!</h3>
+                                <h3>You can do better....or not</h3>
+                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
+        }
+        else if (scores > 5 && scores <= 13) {
+            result.innerHTML = `<h3>Nice Try! There's room for improvement</h3>
+                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
+        }
+        else if (scores > 13 && scores <= 19) {
+            result.innerHTML = `<h3>Close Enough!</h3>
+                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
+        }
+        else {
+            result.innerHTML = `<h3>Perfection! Or so you'd think</h3>
+                                <h2>Your Score: ${scores} / ${data.length}</h2>`;
+        }
+
     }
 
 
