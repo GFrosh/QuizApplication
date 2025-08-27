@@ -12,10 +12,11 @@ export const Quiz = async (sub) => {
 
     // GET HTMLCollection (BUTTONS/DIVS...)
     const question = document.getElementById("question2");
+    const progress = document.getElementById("progress");
     const answers = document.getElementById("answersTwo");
     const next = document.getElementById("next");
     const result = document.getElementById("result2");
-
+    let answered = 1;
 
 
     // DISPLAY A QUESTION AND ITS OPTIONS
@@ -24,6 +25,9 @@ export const Quiz = async (sub) => {
         
         let current = data[index];
         question.innerHTML = current.question;
+    
+        progress.textContent = `${answered} / ${data.length}`;
+        answered++;
     
         current.answers.forEach(answer => {
             let button = document.createElement("button");
