@@ -27,6 +27,7 @@ body {
 
 .quiz-container h1 {
     background: lightblue;
+    color: navy;
     border-radius: 6px;
     padding: 1em;
 }
@@ -67,8 +68,8 @@ body {
 }
 
 #next {
-    margin: auto;
-    padding: 5px;
+    margin: 20px auto;
+    padding: 9px;
     border: solid 1.5px #000;
     border-radius: 3px;
     color: yellow;
@@ -79,7 +80,7 @@ body {
 
 @media screen and (min-width: 1024px) {
 
-    #quiz-container {
-        width: 800px;
+    .quiz-container {
+        width: 960px;
     }
 }
