@@ -85,6 +85,7 @@ export const Quiz = async (sub) => {
     // DISPLAY RESULT AFTER QUIZ COMPLETION
     function showResult() {
         question.style.display = "none";
+        progress.style.display = "none";
         answers.style.display = "none";
         next.style.display = "none";
         result.style.display = "block";
