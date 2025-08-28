@@ -76,6 +76,7 @@ export const Quiz = async (sub) => {
         if (index < data.length) {
             displayQuestion();
         } else {
+            next.innerText = "Finish";
             showResult();
         }
     });
@@ -102,20 +103,26 @@ export const Quiz = async (sub) => {
         }
     }
     
+
+    const chooseSection = document.getElementById("selectCourse");
+    const quizSection = document.getElementById("quiz-container");
     // DISPLAY RESULT AFTER QUIZ COMPLETION
     function showResult() {
         question.style.display = "none";
         progress.style.display = "none";
         answers.style.display = "none";
-        next.style.display = "none";
-        next.textContent = "Done";
         result.style.display = "block";
+        next.textContent = "End Quiz";
+        next.addEventListener("click", () => {
+            chooseSection.style.display = "block";
+            quizSection.style.display = "none";
+        });
     
         grading(scores, data, result);
     }
 
 
 
-    // INITIAL DECLARATION
+    // START QUIZ
     displayQuestion();
 }
