@@ -21,32 +21,29 @@ let course = {
     }
 }
 
-function hideSection(section) {
-    section.style.display = "none";
-}
-
-function chooseCourse() {
-    quizSection.style.display = "block";
-    hideSection(chooseSection);
+function toggleSection(sectionA, sectionB) {
+    sectionA.style.display = "none";
+    sectionB.style.display = "block"
 }
 
 function generatePath(cose, tipe) {
     return `./courses/${cose}/${tipe}.json`;
 }
+toggleSection(quizSection, chooseSection);
 
-hideSection(quizSection);
+
+
+
 options.addEventListener('click', () => {
     options[0].disabled = true;
 });
 chooseBtn.addEventListener('click', () => {
     let selected = options.value;
-    if (selected === "default") {
-        alert("Please select a valid course!🙏");
-    } else {
+    if (selected !== "default") {
+        toggleSection(chooseSection, quizSection);
         Quiz(generatePath(selected, type));
         selectedCourse.innerText = selected.toUpperCase();
+    } else {
+        alert("Please select a valid course!🙏");
     }
-    
-    
-    chooseCourse();
 });
