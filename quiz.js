@@ -117,6 +117,7 @@ export const Quiz = async (sub) => {
         next.textContent = "End Quiz";
         next.addEventListener("click", () => {
             chooseSection.style.display = "block";
+            displayQuestion();
             quizSection.style.display = "none";
         });
     
