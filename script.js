@@ -6,7 +6,7 @@ const chooseSection = document.getElementById("selectCourse");
 const quizSection = document.getElementById("quiz-container");
 const selectedCourse = document.getElementById("selectedCourse");
 
-let type = "typeA";
+let type = "TypeA";
 let course = {
     biology: {
         typeA: "./courses/biology/TypeA.json",

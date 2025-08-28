@@ -106,6 +106,8 @@ export const Quiz = async (sub) => {
 
     const chooseSection = document.getElementById("selectCourse");
     const quizSection = document.getElementById("quiz-container");
+
+    
     // DISPLAY RESULT AFTER QUIZ COMPLETION
     function showResult() {
         question.style.display = "none";
