@@ -1,0 +1,140 @@
+[{
+    "question": "Which diagram is most useful for modelling the logical flow of data within a system?",
+    "answers": [{
+        "text": "Entity-Relationship Diagram (ERD)",
+        "correct": false
+    },
+        {
+            "text": "Data Flow Diagram (DFD)",
+            "correct": true
+        },
+        {
+            "text": "Use Case Diagram",
+            "correct": false
+        }]},
+    {
+        "question": "In system design, normalization is primarily used to:",
+        "answers": [{
+            "text": "Ensure faster execution of queries",
+            "correct": false
+        },
+            {
+                "text": "Remove redundancy and improve data integrity",
+                "correct": true
+            },
+            {
+                "text": "Encrypt database records",
+                "correct": false
+            }]},
+    {
+        "question": "A feasibility study that focuses on whether the project can be completed within available technology is called:",
+        "answers": [{
+            "text": "Operational feasibility",
+            "correct": false
+        },
+            {
+                "text": "Technical feasibility",
+                "correct": true
+            },
+            {
+                "text": "Economic feasibility",
+                "correct": false
+            }]},
+    {
+        "question": "During requirement gathering, which method is best when stakeholders are not available in one place?",
+        "answers": [{
+            "text": "Interviews",
+            "correct": false
+        },
+            {
+                "text": "Questionnaires",
+                "correct": true
+            },
+            {
+                "text": "Observation",
+                "correct": false
+            }]},
+    {
+        "question": "What is the main purpose of a Context Diagram in system design?",
+        "answers": [{
+            "text": "To show system architecture at the database level",
+            "correct": false
+        },
+            {
+                "text": "To show the system boundaries and interactions with external entities",
+                "correct": true
+            },
+            {
+                "text": "To model physical network components",
+                "correct": false
+            }]},
+    {
+        "question": "Which SDLC model is best suited for projects with unclear or evolving requirements?",
+        "answers": [{
+            "text": "Waterfall Model",
+            "correct": false
+        },
+            {
+                "text": "Spiral Model",
+                "correct": true
+            },
+            {
+                "text": "V-Model",
+                "correct": false
+            }]},
+    {
+        "question": "In a DFD, the process symbol represents:",
+        "answers": [{
+            "text": "A transformation of data",
+            "correct": true
+        },
+            {
+                "text": "A database storage",
+                "correct": false
+            },
+            {
+                "text": "An external entity",
+                "correct": false
+            }]},
+    {
+        "question": "The act of verifying that the system design matches user requirements is called:",
+        "answers": [{
+            "text": "Validation",
+            "correct": true
+        },
+            {
+                "text": "Verification",
+                "correct": false
+            },
+            {
+                "text": "Implementation",
+                "correct": false
+            }]},
+    {
+        "question": "Which of the following best describes a prototype in system design?",
+        "answers": [{
+            "text": "A working system ready for deployment",
+            "correct": false
+        },
+            {
+                "text": "A preliminary version built to test concepts with users",
+                "correct": true
+            },
+            {
+                "text": "A finalized software product",
+                "correct": false
+            }]},
+    {
+        "question": "Which requirement is measurable and testable?",
+        "answers": [{
+            "text": "The system should be user-friendly",
+            "correct": false
+        },
+            {
+                "text": "The system should process 500 transactions per second",
+                "correct": true
+            },
+            {
+                "text": "The system should be efficient",
+                "correct": false
+            }]}]

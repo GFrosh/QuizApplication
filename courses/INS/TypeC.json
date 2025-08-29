@@ -1,0 +1,140 @@
+[{
+    "question": "A university is designing a student registration system. Which feasibility factor should be prioritized if the school has limited funds but adequate technical staff?",
+    "answers": [{
+        "text": "Economic feasibility",
+        "correct": true
+    },
+        {
+            "text": "Technical feasibility",
+            "correct": false
+        },
+        {
+            "text": "Operational feasibility",
+            "correct": false
+        }]},
+    {
+        "question": "You are building a hospital management system. Doctors demand new features weekly, and requirements are changing. Which SDLC model is MOST suitable?",
+        "answers": [{
+            "text": "Waterfall model",
+            "correct": false
+        },
+            {
+                "text": "Agile/Iterative model",
+                "correct": true
+            },
+            {
+                "text": "V-Model",
+                "correct": false
+            }]},
+    {
+        "question": "A DFD shows that process A receives input directly from process B. What does this violate?",
+        "answers": [{
+            "text": "Process-to-process direct data flow rule",
+            "correct": true
+        },
+            {
+                "text": "Entity-to-process rule",
+                "correct": false
+            },
+            {
+                "text": "Data store access rule",
+                "correct": false
+            }]},
+    {
+        "question": "If a requirement states: 'The ATM must allow withdrawal within 10 seconds of PIN entry,' this is an example of:",
+        "answers": [{
+            "text": "Functional requirement",
+            "correct": false
+        },
+            {
+                "text": "Non-functional requirement",
+                "correct": true
+            },
+            {
+                "text": "Technical feasibility",
+                "correct": false
+            }]},
+    {
+        "question": "During system design, a trade-off is made to reduce security checks in order to increase system speed. This reflects:",
+        "answers": [{
+            "text": "Optimization of requirements",
+            "correct": true
+        },
+            {
+                "text": "Requirement validation",
+                "correct": false
+            },
+            {
+                "text": "System prototyping",
+                "correct": false
+            }]},
+    {
+        "question": "A company wants to automate payroll. The analyst chooses interviews with accountants instead of observation. Why?",
+        "answers": [{
+            "text": "Observation cannot capture policy rules",
+            "correct": true
+        },
+            {
+                "text": "Interviews are always faster",
+                "correct": false
+            },
+            {
+                "text": "Observation is only for physical processes",
+                "correct": false
+            }]},
+    {
+        "question": "If a system design ensures that every input leads to a predictable output, it addresses:",
+        "answers": [{
+            "text": "System validation",
+            "correct": false
+        },
+            {
+                "text": "System reliability",
+                "correct": true
+            },
+            {
+                "text": "System scalability",
+                "correct": false
+            }]},
+    {
+        "question": "When a system is tested by end-users in a real environment before official deployment, this is called:",
+        "answers": [{
+            "text": "System testing",
+            "correct": false
+        },
+            {
+                "text": "Acceptance testing",
+                "correct": true
+            },
+            {
+                "text": "Unit testing",
+                "correct": false
+            }]},
+    {
+        "question": "If the analyst draws an ERD where a student can enrol in many courses, and each course can have many students, this is a:",
+        "answers": [{
+            "text": "One-to-many relationship",
+            "correct": false
+        },
+            {
+                "text": "Many-to-many relationship",
+                "correct": true
+            },
+            {
+                "text": "One-to-one relationship",
+                "correct": false
+            }]},
+    {
+        "question": "A system analyst identifies that the existing system fails because of frequent downtime. Which requirement is MOST critical to address?",
+        "answers": [{
+            "text": "Usability",
+            "correct": false
+        },
+            {
+                "text": "Reliability",
+                "correct": true
+            },
+            {
+                "text": "Flexibility",
+                "correct": false
+            }]}]

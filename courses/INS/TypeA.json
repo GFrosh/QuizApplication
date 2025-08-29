@@ -1,0 +1,300 @@
+[{
+    "question": "What is the main purpose of System Analysis?",
+    "answers": [{
+        "text": "To study a system and identify its requirements",
+        "correct": true
+    },
+        {
+            "text": "To design the user interface",
+            "correct": false
+        },
+        {
+            "text": "To install the system software",
+            "correct": false
+        }]
+},
+    {
+        "question": "Which of the following is NOT a phase of the System Development Life Cycle (SDLC)?",
+        "answers": [{
+            "text": "System Analysis",
+            "correct": false
+        },
+            {
+                "text": "System Cooking",
+                "correct": true
+            },
+            {
+                "text": "System Design",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Feasibility study in system analysis checks for:",
+        "answers": [{
+            "text": "Technical, operational, and economic viability",
+            "correct": true
+        },
+            {
+                "text": "Only financial profit",
+                "correct": false
+            },
+            {
+                "text": "Only user satisfaction",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which tool is commonly used to represent the flow of data in a system?",
+        "answers": [{
+            "text": "Data Flow Diagram (DFD)",
+            "correct": true
+        },
+            {
+                "text": "Bar Chart",
+                "correct": false
+            },
+            {
+                "text": "Histogram",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In SDLC, which phase comes immediately after system analysis?",
+        "answers": [{
+            "text": "System Design",
+            "correct": true
+        },
+            {
+                "text": "Implementation",
+                "correct": false
+            },
+            {
+                "text": "Testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What does UML stand for?",
+        "answers": [{
+            "text": "Unified Modeling Language",
+            "correct": true
+        },
+            {
+                "text": "Universal Machine Learning",
+                "correct": false
+            },
+            {
+                "text": "Unified Management Logic",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of these is a fact-finding technique in system analysis?",
+        "answers": [{
+            "text": "Interview",
+            "correct": true
+        },
+            {
+                "text": "Dancing",
+                "correct": false
+            },
+            {
+                "text": "Guessing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which feasibility type checks if the system will be accepted by users?",
+        "answers": [{
+            "text": "Operational feasibility",
+            "correct": true
+        },
+            {
+                "text": "Technical feasibility",
+                "correct": false
+            },
+            {
+                "text": "Economic feasibility",
+                "correct": false
+            }]
+    },
+    {
+        "question": "An ER diagram is used to represent:",
+        "answers": [{
+            "text": "Entities and their relationships",
+            "correct": true
+        },
+            {
+                "text": "Only the hardware parts of a system",
+                "correct": false
+            },
+            {
+                "text": "Steps of SDLC",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which symbol represents a process in a Data Flow Diagram?",
+        "answers": [{
+            "text": "Circle",
+            "correct": true
+        },
+            {
+                "text": "Triangle",
+                "correct": false
+            },
+            {
+                "text": "Square",
+                "correct": false
+            }]
+    },
+    {
+        "question": "System design translates system requirements into:",
+        "answers": [{
+            "text": "Blueprints for building the system",
+            "correct": true
+        },
+            {
+                "text": "User complaints",
+                "correct": false
+            },
+            {
+                "text": "Random charts",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is a characteristic of a good system analyst?",
+        "answers": [{
+            "text": "Good communication skills",
+            "correct": true
+        },
+            {
+                "text": "Ignoring user feedback",
+                "correct": false
+            },
+            {
+                "text": "Overcomplicating processes",
+                "correct": false
+            }]
+    },
+    {
+        "question": "In SDLC, the testing phase ensures:",
+        "answers": [{
+            "text": "The system works as expected",
+            "correct": true
+        },
+            {
+                "text": "The team gets more money",
+                "correct": false
+            },
+            {
+                "text": "The hardware is colourful",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which diagram shows the logical structure of a database?",
+        "answers": [{
+            "text": "Entity-Relationship Diagram",
+            "correct": true
+        },
+            {
+                "text": "Pie Chart",
+                "correct": false
+            },
+            {
+                "text": "Bar Graph",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which document describes in detail what the system should do?",
+        "answers": [{
+            "text": "System Requirements Specification",
+            "correct": true
+        },
+            {
+                "text": "Resume",
+                "correct": false
+            },
+            {
+                "text": "Calendar",
+                "correct": false
+            }]
+    },
+    {
+        "question": "The process of converting the design into a working system is called:",
+        "answers": [{
+            "text": "Implementation",
+            "correct": true
+        },
+            {
+                "text": "Feasibility",
+                "correct": false
+            },
+            {
+                "text": "Documentation",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which of the following is an advantage of prototyping?",
+        "answers": [{
+            "text": "Users can see a working model early",
+            "correct": true
+        },
+            {
+                "text": "It wastes time",
+                "correct": false
+            },
+            {
+                "text": "It hides errors",
+                "correct": false
+            }]
+    },
+    {
+        "question": "A context diagram in system analysis represents:",
+        "answers": [{
+            "text": "The system and its interaction with external entities",
+            "correct": true
+        },
+            {
+                "text": "The internal code structure",
+                "correct": false
+            },
+            {
+                "text": "The system’s cost",
+                "correct": false
+            }]
+    },
+    {
+        "question": "Which testing ensures new changes do not break the existing system?",
+        "answers": [{
+            "text": "Regression testing",
+            "correct": true
+        },
+            {
+                "text": "Unit testing",
+                "correct": false
+            },
+            {
+                "text": "Beta testing",
+                "correct": false
+            }]
+    },
+    {
+        "question": "What is the final stage of SDLC?",
+        "answers": [{
+            "text": "Maintenance",
+            "correct": true
+        },
+            {
+                "text": "Implementation",
+                "correct": false
+            },
+            {
+                "text": "Design",
+                "correct": false
+            }]
+    }]

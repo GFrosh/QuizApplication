@@ -1,0 +1,140 @@
+[{
+    "question": "A supermarket wants to track customer purchases. Which diagram best represents the relationship between 'Customer' and 'Product'?",
+    "answers": [{
+        "text": "Entity-Relationship Diagram (ERD)",
+        "correct": true
+    },
+        {
+            "text": "Data Flow Diagram (DFD)",
+            "correct": false
+        },
+        {
+            "text": "Use Case Diagram",
+            "correct": false
+        }]},
+    {
+        "question": "During requirements gathering, you want to show how data moves between processes, data stores, and entities. Which tool should you use?",
+        "answers": [{
+            "text": "Entity-Relationship Diagram",
+            "correct": false
+        },
+            {
+                "text": "Data Flow Diagram",
+                "correct": true
+            },
+            {
+                "text": "Class Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "You are tasked with modelling how an ATM user interacts with the system. Which diagram is MOST suitable?",
+        "answers": [{
+            "text": "Use Case Diagram",
+            "correct": true
+        },
+            {
+                "text": "Sequence Diagram",
+                "correct": false
+            },
+            {
+                "text": "Data Flow Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "Which SDLC model is best if a bank wants a highly secure system and cannot tolerate errors, even if development takes longer?",
+        "answers": [{
+            "text": "Waterfall Model",
+            "correct": false
+        },
+            {
+                "text": "V-Model",
+                "correct": true
+            },
+            {
+                "text": "Agile Model",
+                "correct": false
+            }]},
+    {
+        "question": "A university library system needs to represent books, authors, and borrowers. Which diagram helps define these entities and their attributes?",
+        "answers": [{
+            "text": "Entity-Relationship Diagram",
+            "correct": true
+        },
+            {
+                "text": "Context Diagram",
+                "correct": false
+            },
+            {
+                "text": "State Transition Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "Which design tool is MOST appropriate to capture the step-by-step interactions between an online shopper and the e-commerce system?",
+        "answers": [{
+            "text": "Sequence Diagram",
+            "correct": true
+        },
+            {
+                "text": "Use Case Diagram",
+                "correct": false
+            },
+            {
+                "text": "Class Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "If a system must show how a 'Login' process gets data from 'User Database' and sends results to 'User,' which diagram best illustrates this?",
+        "answers": [{
+            "text": "Data Flow Diagram",
+            "correct": true
+        },
+            {
+                "text": "Use Case Diagram",
+                "correct": false
+            },
+            {
+                "text": "Activity Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "A software team needs to capture how system states change when a student moves from 'Registered' to 'Graduated.' Which diagram should they use?",
+        "answers": [{
+            "text": "State Transition Diagram",
+            "correct": true
+        },
+            {
+                "text": "ER Diagram",
+                "correct": false
+            },
+            {
+                "text": "Use Case Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "To design an airline booking system, the analyst wants to show classes like 'Passenger,' 'Flight,' and 'Ticket,' including their methods and attributes. Which diagram is used?",
+        "answers": [{
+            "text": "Class Diagram",
+            "correct": true
+        },
+            {
+                "text": "Sequence Diagram",
+                "correct": false
+            },
+            {
+                "text": "ER Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "Which diagram would BEST represent the overall boundary of a system and how external entities interact with it?",
+        "answers": [{
+            "text": "Context Diagram",
+            "correct": true
+        },
+            {
+                "text": "Sequence Diagram",
+                "correct": false
+            },
+            {
+                "text": "Class Diagram",
+                "correct": false
+            }]}]

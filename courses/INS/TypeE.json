@@ -1,0 +1,140 @@
+[{
+    "question": "A hospital management system is being developed. The analyst must clearly separate 'what the system should do' from 'how it will be implemented.' Which phase of SDLC ensures this separation?",
+    "answers": [{
+        "text": "System Design",
+        "correct": false
+    },
+        {
+            "text": "System Analysis",
+            "correct": true
+        },
+        {
+            "text": "System Implementation",
+            "correct": false
+        }]},
+    {
+        "question": "Which diagram is BEST for capturing alternative paths (like success and failure) in a system’s workflow?",
+        "answers": [{
+            "text": "Activity Diagram",
+            "correct": true
+        },
+            {
+                "text": "Data Flow Diagram",
+                "correct": false
+            },
+            {
+                "text": "Use Case Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "During requirement analysis, the client insists on frequent changes and fast delivery. Which methodology is MOST appropriate?",
+        "answers": [{
+            "text": "Waterfall",
+            "correct": false
+        },
+            {
+                "text": "Agile",
+                "correct": true
+            },
+            {
+                "text": "V-Model",
+                "correct": false
+            }]},
+    {
+        "question": "If a system must ensure that only authorised users can access sensitive financial data, which requirement is this an example of?",
+        "answers": [{
+            "text": "Functional Requirement",
+            "correct": false
+        },
+            {
+                "text": "Non-Functional Requirement (Security)",
+                "correct": true
+            },
+            {
+                "text": "Performance Requirement",
+                "correct": false
+            }]},
+    {
+        "question": "Which approach is MOST suitable when the client has only a vague idea of what they want, and the system will evolve through user feedback?",
+        "answers": [{
+            "text": "Prototype Model",
+            "correct": true
+        },
+            {
+                "text": "Waterfall Model",
+                "correct": false
+            },
+            {
+                "text": "V-Model",
+                "correct": false
+            }]},
+    {
+        "question": "A bank requires strict documentation and approvals at every stage of system development. Which methodology aligns BEST with this requirement?",
+        "answers": [{
+            "text": "Agile",
+            "correct": false
+        },
+            {
+                "text": "Waterfall",
+                "correct": true
+            },
+            {
+                "text": "Prototype",
+                "correct": false
+            }]},
+    {
+        "question": "Which diagram BEST explains the sequence of messages exchanged between objects over time in an online shopping system?",
+        "answers": [{
+            "text": "Sequence Diagram",
+            "correct": true
+        },
+            {
+                "text": "Class Diagram",
+                "correct": false
+            },
+            {
+                "text": "Context Diagram",
+                "correct": false
+            }]},
+    {
+        "question": "When evaluating feasibility, which type checks if the project aligns with organisational policies and culture?",
+        "answers": [{
+            "text": "Operational Feasibility",
+            "correct": true
+        },
+            {
+                "text": "Technical Feasibility",
+                "correct": false
+            },
+            {
+                "text": "Economic Feasibility",
+                "correct": false
+            }]},
+    {
+        "question": "An analyst is trying to reduce redundancy in a student database by splitting large tables into smaller ones. What process is this?",
+        "answers": [{
+            "text": "Data Normalization",
+            "correct": true
+        },
+            {
+                "text": "Data Flow Analysis",
+                "correct": false
+            },
+            {
+                "text": "Data Encryption",
+                "correct": false
+            }]},
+    {
+        "question": "A university system must process 10,000 student registrations in under 2 minutes. This requirement is BEST classified as?",
+        "answers": [{
+            "text": "Functional Requirement",
+            "correct": false
+        },
+            {
+                "text": "Non-Functional Requirement (Performance)",
+                "correct": true
+            },
+            {
+                "text": "Operational Feasibility",
+                "correct": false
+            }]}]
