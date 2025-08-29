@@ -109,7 +109,12 @@ export const Quiz = async (sub) => {
     const chooseSection = document.getElementById("selectCourse");
     const quizSection = document.getElementById("quiz-container");
 
-    
+    // TOGGLE SECTION FUNCTION
+    function toggleSection(sectionA, sectionB) {
+        sectionA.style.display = "none";
+        sectionB.style.display = "block"
+    }
+
     // DISPLAY RESULT AFTER QUIZ COMPLETION
     function showResult() {
         question.style.display = "none";
@@ -118,8 +123,7 @@ export const Quiz = async (sub) => {
         result.style.display = "block";
         next.textContent = "End Quiz";
         next.addEventListener("click", () => {
-            chooseSection.style.display = "block";
-            quizSection.style.display = "none";
+            toggleSection(quizSection, chooseSection);
         });
     
         grading(scores, data, result);
