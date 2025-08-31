@@ -6,7 +6,7 @@ const chooseSection = document.getElementById("selectCourse");
 const quizSection = document.getElementById("quiz-container");
 const selectedCourse = document.getElementById("selectedCourse");
 
-let type = "TypeA";
+let type = "TypeB";
 
 function toggleSection(sectionA, sectionB) {
     sectionA.style.display = "none";
